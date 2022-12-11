@@ -1,5 +1,5 @@
 ### Hi Everyone !, I'm Abderrahmen :grinning:,
-A Mechatronics Engineer 🎯  from Germany.
+A Mechatronics Engineer 🎯 from Germany.
 - 👨‍💻 Junior Data Analyst
 - 💡 &nbsp;I like to explore new trends and learn new technologies.
 - 🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https:https://www.python.org/" target="_blank"><u>Python</u></a>, <a style="color:#764ABC" href="https://www.techtarget.com/searchdatamanagement/definition/SQL/" target="_blank"><u>SQL</u></a> and <a style="color:#000000" href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><u>Machine learning</u></a>.
