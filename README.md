@@ -29,11 +29,7 @@ Feel free to ask me anything!
 ![Abdou's github stats](https://github-readme-stats.vercel.app/api?username=abdou240&theme=tokyonight&show_icons=true&hide=["issues"])<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdou240&theme=tokyonight&layout=compact)
 
-### 🤝🏻 Find me on:
-<a href="https://www.facebook.com/abderahmen20/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-AbderrahmenMansour-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.linkedin.com/in/abderrahmen-m-934714a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AbderrahmenMansour-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/abderahme1994"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-AbderrahmenMansour-blue?style=flat-square&logo=twitter"></a>
- <a href="mailto:abderahmenmansour@yahoo.fr"><img alt="Email" src="https://img.shields.io/badge/Email-abderahmenmansour@yahoo.fr-blue?style=flat-square&logo=gmail"></a>
+
 <p align="center"> 
   You are visitor number: <br>
   <img src="https://profile-counter.glitch.me/abdou240/count.svg" />
