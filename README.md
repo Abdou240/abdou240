@@ -29,7 +29,6 @@ Feel free to ask me anything!
 ![Abdou's github stats](https://github-readme-stats.vercel.app/api?username=abdou240&theme=tokyonight&show_icons=true&hide=["issues"])<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdou240&theme=tokyonight&layout=compact)
 
-
 <p align="center"> 
   You are visitor number: <br>
   <img src="https://profile-counter.glitch.me/abdou240/count.svg" />
