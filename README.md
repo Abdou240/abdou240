@@ -1,54 +1,73 @@
-# Hi, I'm Abderrahmen Mansour 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Abderrahmen%20Mansour&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Cloud%20Data%20Engineer&descAlignY=58&descSize=18" alt="header" />
+</p>
 
-**Data Scientist | Machine Learning Engineer | Cloud Data Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Production-ready+ML+Systems;MLOps+%7C+Cloud+Architecture+%7C+Data+Engineering;AWS+%7C+GCP+%7C+ETL%2FELT+%7C+LLM+Applications" alt="Typing SVG" />
+</p>
 
-I build production-ready machine learning systems and scalable data platforms with a strong focus on **MLOps, cloud architecture, and end-to-end data pipelines**.
-
-Based in **Munich, Germany** 🇩🇪
-
-## About me
-
-- Building and deploying ML solutions in production
-- Designing scalable ETL/ELT and data engineering workflows
-- Working across **AWS**, **GCP**, and modern analytics stacks
-- Interested in **Applied AI, LLM applications, MLOps, and cloud automation**
-
-## Core stack
-
-**Languages**  
-`Python` `SQL` `Bash`
-
-**Cloud & Data**  
-`AWS` `GCP` `S3` `Glue` `Lambda` `Step Functions` `Athena` `EKS` `RDS` `BigQuery` `Dataproc` `GCS`
-
-**ML & Engineering**  
-`SageMaker` `scikit-learn` `TensorFlow` `Docker` `Terraform` `GitHub Actions`
-
-**Analytics & BI**  
-`PostgreSQL` `Snowflake` `dbt` `dlt` `PySpark` `QuickSight` `Power BI` `Grafana` `Dataiku`
-
-## What I work on
-
-- End-to-end ML model development and deployment
-- MLOps pipelines and workflow orchestration
-- Data ingestion, transformation, and automation
-- Cloud infrastructure and cost optimization
-- Dashboards, reporting, and data-driven decision support
-- LLM and RAG-based application workflows
-
-## Experience highlights
-
-- Developing and deploying ML models and data solutions in enterprise environments
-- Building cloud-native pipelines and backend services on AWS
-- Working with modern data stacks across analytics, engineering, and BI
-- Bridging data science, software engineering, and cloud operations
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/abderrahmen-m-934714a2/)
-- [GitHub](https://github.com/Abdou240)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abderrahmen-m-934714a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abderrahmen%20Mansour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abdou240">
+    <img src="https://img.shields.io/badge/GitHub-Abdou240-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Munich%2C%20Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdou240&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdou240&theme=tokyonight&layout=compact)
+## 👨‍💻 Über Mich / About Me
+
+Ich konzipiere und entwickle **produktionsreife Machine-Learning-Systeme** und skalierbare Datenplattformen mit starkem Fokus auf **MLOps, Cloud-Architektur und End-to-End Daten-Pipelines**. Zuletzt war ich erfolgreich im Umfeld der **BMW Group** tätig.
+
+* 🤖 **ML & MLOps:** Entwicklung, Deployment (Realtime/Batch) und Monitoring von ML-Modellen sowie Orchestrierung über AWS Step Functions.
+* ☁️ **Cloud Data Engineering:** Aufbau skalierbarer ETL/ELT-Pipelines und Data Lakes (AWS & GCP).
+* 🧠 **Generative AI:** Implementierung von LLM-Anwendungen (z. B. RAG, Prompt-Workflows, Tool-/Function-Calling).
+* 📈 **Impact:** Nachweisbare Optimierung der AWS-Ressourcennutzung und Reduzierung der Cloud-Kosten um **20%**.
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programmierung & Datenbanken
+`Python` `SQL (PostgreSQL, Athena, Oracle)` `Snowflake` `BigQuery` `C++` `Java` `Bash`
+
+### ☁️ Cloud & Infrastructure (IaC)
+`AWS (SageMaker, EKS, Lambda, Glue, S3, RDS)` `GCP` `Terraform` `Docker` `GitHub Actions`
+
+### 🤖 Machine Learning & MLOps
+`Scikit-Learn` `TensorFlow` `MLOps` `LLM Apps & RAG Workflows` `Feature Engineering`
+
+### ⚙️ Data Engineering & ETL
+`dbt` `dlt` `PySpark` `Dataproc` `Dataiku` `Talend`
+
+### 📊 BI & Monitoring
+`QuickSight` `Power BI` `Grafana` `Matplotlib` `Seaborn`
+
+---
+
+## 🚀 Berufliche Highlights & Expertise
+
+Ausgerichtet an meinen Stationen (u.a. BMW Group, Vertbaudet, Modis, Bertrandt):
+
+* **End-to-End MLOps auf AWS:** Konzeption und produktiver Betrieb von Machine-Learning-Modellen auf AWS (SageMaker) inkl. Drift-Monitoring. Containerisierung via EKS und Docker.
+* **Data & Analytics Engineering:** Migration komplexer DB2-SQL-Logik nach Athena SQL. Aufbau von Analysepfaden (RDS ➔ S3 ➔ Glue ➔ Athena ➔ QuickSight).
+* **Data Ingestion & APIs:** Entwicklung serverloser Backend-Services mit AWS Lambda und API Gateway sowie inkrementelle Datenübernahme mit `dlt`.
+* **Infrastructure as Code & CI/CD:** Bereitstellung reproduzierbarer Infrastruktur mit Terraform und Automatisierung über GitHub Actions.
+
+---
+
+## 📜 Zertifikate
+* **Data Engineering Zoomcamp** (2025)
+* **Mathematics for Machine Learning and Data Science** (2023)
+* **AWS re/Start Graduate** (2023)
+* **Data Science Bootcamp** (2022)
+
+---
+
+<p align="center">
+  <i>"Herr Mansour verfügte über ein äußerst fundiertes und weitreichendes Fachwissen [...] Seine Leistungen waren in qualitativer wie auch quantitativer Hinsicht jederzeit hervorragend."</i><br>
+  <strong>— Auszug aus dem Arbeitszeugnis (BMW Group Projekt / Academic Work)</strong>
+</p>
