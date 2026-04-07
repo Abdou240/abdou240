@@ -5,18 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
+    name: generate-github-profile-summary-cards
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: Abdou240
-          BRANCH_NAME: "main"
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
           UTC_OFFSET: 1
           AUTO_PUSH: true
