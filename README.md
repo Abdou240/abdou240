@@ -1,73 +1,131 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Abderrahmen%20Mansour&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Cloud%20Data%20Engineer&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=15,2,10,30&text=Abderrahmen%20Mansour&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Cloud%20Data%20Engineer&descAlignY=55&descSize=18" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Production-ready+ML+Systems;MLOps+%7C+Cloud+Architecture+%7C+Data+Engineering;AWS+%7C+GCP+%7C+ETL%2FELT+%7C+LLM+Applications" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abderrahmen-m-934714a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abderrahmen%20Mansour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Abdou240">
-    <img src="https://img.shields.io/badge/GitHub-Abdou240-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Munich%2C%20Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/abderrahmen-m-934714a2/)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Abdou240)
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=412144&logo=Yahoo!&logoColor=FFFFFF&label=)](mailto:abderrahmen.mansour@yahoo.com)
+
+</div>
 
 ---
 
-## 👨‍💻 Über Mich / About Me
+## 🚀 About Me
 
-Ich konzipiere und entwickle **produktionsreife Machine-Learning-Systeme** und skalierbare Datenplattformen mit starkem Fokus auf **MLOps, Cloud-Architektur und End-to-End Daten-Pipelines**. Zuletzt war ich erfolgreich im Umfeld der **BMW Group** tätig.
+I'm a **Data Scientist & Engineer** who ships ML models to production — not just notebooks. With 5+ years across the automotive and e-commerce industries (BMW Group, Vertbaudet, MAN), I design end-to-end systems that go from raw data to real business impact: **20% cloud cost savings**, **30% faster pipelines**, and ML models running reliably at scale on AWS.
 
-* 🤖 **ML & MLOps:** Entwicklung, Deployment (Realtime/Batch) und Monitoring von ML-Modellen sowie Orchestrierung über AWS Step Functions.
-* ☁️ **Cloud Data Engineering:** Aufbau skalierbarer ETL/ELT-Pipelines und Data Lakes (AWS & GCP).
-* 🧠 **Generative AI:** Implementierung von LLM-Anwendungen (z. B. RAG, Prompt-Workflows, Tool-/Function-Calling).
-* 📈 **Impact:** Nachweisbare Optimierung der AWS-Ressourcennutzung und Reduzierung der Cloud-Kosten um **20%**.
+I care about clean infrastructure, reproducible workflows, and building things that last beyond the POC stage.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programmierung & Datenbanken
-`Python` `SQL (PostgreSQL, Athena, Oracle)` `Snowflake` `BigQuery` `C++` `Java` `Bash`
+<table>
+<tr>
+<td align="center" width="160"><b>💻 Languages</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,cpp,java&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,dynamodb,mongodb,redis,cassandra,oracle,snowflake,bigquery&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Cloud</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Infrastructure</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform,docker,kubernetes,githubactions,git,linux&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🤖 ML & AI</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,anaconda,xgboost,numpy,scipy,pandas,mlflow,huggingface,langchain,wandb&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🔧 Data<br/>Engineering</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,airflow,spark,pyspark&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>📊 Visualization</b></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,matlab,plotly,matplotlib,powerbi&theme=dark" /></td>
+</tr>
+</table>
 
-### ☁️ Cloud & Infrastructure (IaC)
-`AWS (SageMaker, EKS, Lambda, Glue, S3, RDS)` `GCP` `Terraform` `Docker` `GitHub Actions`
-
-### 🤖 Machine Learning & MLOps
-`Scikit-Learn` `TensorFlow` `MLOps` `LLM Apps & RAG Workflows` `Feature Engineering`
-
-### ⚙️ Data Engineering & ETL
-`dbt` `dlt` `PySpark` `Dataproc` `Dataiku` `Talend`
-
-### 📊 BI & Monitoring
-`QuickSight` `Power BI` `Grafana` `Matplotlib` `Seaborn`
+- 🧠 **ML & MLOps** — End-to-end model lifecycle from training to drift monitoring and experiment tracking
+- 🤖 **LLM & GenAI** — Production RAG pipelines, prompt engineering and function calling with LangChain & Hugging Face
+- ⚙️ **Data Pipelines** — Scalable ETL/ELT with Airflow, dlt, dbt, Spark and Delta Lake
+- ☁️ **Cloud Native** — 15+ AWS services in production, IaC with Terraform, serverless APIs, CI/CD with GitHub Actions
+- 📊 **Analytics** — Interactive dashboards in QuickSight, Grafana & Power BI with KPI modeling
 
 ---
 
-## 🚀 Berufliche Highlights & Expertise
+## ⚡ What I Build
 
-Ausgerichtet an meinen Stationen (u.a. BMW Group, Vertbaudet, Modis, Bertrandt):
+<table>
+<tr>
+<td width="50%">
 
-* **End-to-End MLOps auf AWS:** Konzeption und produktiver Betrieb von Machine-Learning-Modellen auf AWS (SageMaker) inkl. Drift-Monitoring. Containerisierung via EKS und Docker.
-* **Data & Analytics Engineering:** Migration komplexer DB2-SQL-Logik nach Athena SQL. Aufbau von Analysepfaden (RDS ➔ S3 ➔ Glue ➔ Athena ➔ QuickSight).
-* **Data Ingestion & APIs:** Entwicklung serverloser Backend-Services mit AWS Lambda und API Gateway sowie inkrementelle Datenübernahme mit `dlt`.
-* **Infrastructure as Code & CI/CD:** Bereitstellung reproduzierbarer Infrastruktur mit Terraform und Automatisierung über GitHub Actions.
+### 🤖 ML & MLOps
+Full model lifecycle on **SageMaker** — from feature engineering and hyperparameter tuning to real-time & batch deployment with automated drift monitoring. Experiment tracking with **MLflow** & **W&B**. Building **LLM-powered applications** (RAG, function calling) with LangChain, Hugging Face and production-grade guardrails.
+
+</td>
+<td width="50%">
+
+### ⚙️ Data Engineering
+Scalable **ETL/ELT pipelines** with Glue, Lambda & Step Functions, orchestrated via **Airflow**. Incremental data ingestion with **dlt** including schema evolution and observability. Data quality with **Great Expectations**. Data Lake architecture on **S3 + Glue Catalog + Athena + Delta Lake** with cross-account governance via Lake Formation.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+Production-ready **Infrastructure as Code** with Terraform. Serverless APIs via Lambda & API Gateway. **CI/CD** with GitHub Actions for both infrastructure and application deployments. Proven track record in **cost optimization** — lifecycle policies, rightsizing, KPI-based transparency.
+
+</td>
+<td width="50%">
+
+### 📊 Analytics & Reporting
+Interactive dashboards with **QuickSight**, Grafana & Power BI — including KPI modeling, row-level security, and custom frontend integrations. Model explainability with **SHAP**. Hands-on experience migrating complex SQL dialects (**DB2 → Athena**, **BigQuery → Oracle**).
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Zertifikate
-* **Data Engineering Zoomcamp** (2025)
-* **Mathematics for Machine Learning and Data Science** (2023)
-* **AWS re/Start Graduate** (2023)
-* **Data Science Bootcamp** (2022)
+## 🎓 Education & Certifications
+
+**B.Sc. Mechatronik** — Technische Universität Ilmenau
+
+| Year | Certification |
+|---|---|
+| 2025 | 📜 Data Engineering Zoomcamp |
+| 2023 | 📜 Mathematics for ML and Data Science Specialization |
+| 2023 | 📜 AWS re/Start Graduate |
+| 2022 | 📜 Data Science Bootcamp |
+| 2022 | 📜 Data Analyst Nano-Degree |
 
 ---
 
-<p align="center">
-  <i>"Herr Mansour verfügte über ein äußerst fundiertes und weitreichendes Fachwissen [...] Seine Leistungen waren in qualitativer wie auch quantitativer Hinsicht jederzeit hervorragend."</i><br>
-  <strong>— Auszug aus dem Arbeitszeugnis (BMW Group Projekt / Academic Work)</strong>
-</p>
+## 💬 Reference
+
+> *"Herr Mansour zeichnete sich durch eine ausgeprägte Eigeninitiative aus [...] Seine Leistungen waren in qualitativer wie auch quantitativer Hinsicht jederzeit hervorragend."*
+>
+> — **Arbeitszeugnis, BMW Group Projekt** *(Academic Work)*
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="700" src="https://streak-stats.demolab.com/?user=Abdou240&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdou240&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
