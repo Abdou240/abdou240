@@ -122,6 +122,16 @@ Interactive dashboards with **QuickSight**, Grafana & Power BI — including KPI
 
 ## 📊 GitHub Analytics
 
+<img width="49%" src="https://raw.githubusercontent.com/Abdou240/Abdou240/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Abdou240/Abdou240/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+
+<br/><br/>
+
+<img width="49%" src="https://raw.githubusercontent.com/Abdou240/Abdou240/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Abdou240/Abdou240/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<br/><br/>
+
 <img width="700" src="https://streak-stats.demolab.com/?user=Abdou240&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
